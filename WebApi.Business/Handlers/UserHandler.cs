@@ -189,6 +189,16 @@ namespace WebApi.Business.Handlers
                     };
                 }
 
+                if ((data?.estatus ?? 0) ==0)
+                {
+                    return new MessageResponse()
+                    {
+                        ResponseType = ResponseType.Warning,
+                        Message = "Usuario inactivo"
+                    };
+                }
+
+
                 UserModel user = data.ToUserBusiness();
 
                 return new MessageResponse()

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23374FC2-9F2C-4E16-8F94-4A44F5041024}|WebApi.Business\\WebApi.Business.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi.business\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23374FC2-9F2C-4E16-8F94-4A44F5041024}|WebApi.Business\\WebApi.Business.csproj|solutionrelative:webapi.business\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 51,
           "Children": [
             {
               "$type": "Bookmark",
@@ -206,6 +231,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi.Business\\Handlers\\UserHandler.cs",
+              "RelativeDocumentMoniker": "WebApi.Business\\Handlers\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi.Business\\Handlers\\UserHandler.cs",
+              "RelativeToolTip": "WebApi.Business\\Handlers\\UserHandler.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswMQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:49:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:48:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:48:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\MedicationController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MedicationController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\MedicationController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MedicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:48:11.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:48:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:47:55.114Z",
+              "EditorCaption": ""
             }
           ]
         }
