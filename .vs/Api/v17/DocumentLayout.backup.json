@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 51,
+          "SelectedChildIndex": 54,
           "Children": [
             {
               "$type": "Bookmark",
@@ -234,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserHandler.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi.Business\\Handlers\\UserHandler.cs",
               "RelativeDocumentMoniker": "WebApi.Business\\Handlers\\UserHandler.cs",
@@ -247,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApi\\Views\\Home\\Index.cshtml",
@@ -260,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApi\\Views\\Shared\\_Layout.cshtml",
@@ -299,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
