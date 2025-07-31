@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23374FC2-9F2C-4E16-8F94-4A44F5041024}|WebApi.Business\\WebApi.Business.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi.business\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23374FC2-9F2C-4E16-8F94-4A44F5041024}|WebApi.Business\\WebApi.Business.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\webapi.business\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23374FC2-9F2C-4E16-8F94-4A44F5041024}|WebApi.Business\\WebApi.Business.csproj|solutionrelative:webapi.business\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\documents\\github\\api\\webapi\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\webapi\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A048180A-139D-4704-A2FC-EBC3FFC8C5CA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -242,8 +242,7 @@
               "RelativeToolTip": "WebApi.Business\\Handlers\\UserHandler.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAswMQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T07:49:33.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:49:33.543Z"
             },
             {
               "$type": "Document",
@@ -255,8 +254,7 @@
               "RelativeToolTip": "WebApi\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:48:47.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:48:47.699Z"
             },
             {
               "$type": "Document",
@@ -268,8 +266,7 @@
               "RelativeToolTip": "WebApi\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:48:21.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:48:21.562Z"
             },
             {
               "$type": "Document",
@@ -281,8 +278,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\MedicationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T07:48:11.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:48:11.117Z"
             },
             {
               "$type": "Document",
@@ -294,8 +290,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T07:48:08.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:48:08.595Z"
             },
             {
               "$type": "Document",
@@ -305,7 +300,7 @@
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\Api\\WebApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAowHsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T07:47:55.114Z",
               "EditorCaption": ""
